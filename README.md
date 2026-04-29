@@ -1,2 +1,2 @@
 # FlyoutFBWScripts
-Flyout FlyByWire scripts for various types of aircraft. Currently, a Work-In-Progress. 
+WIP. currently only providing a relatively barebones Tailess Delta type configuration 
